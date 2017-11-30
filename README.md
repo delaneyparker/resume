@@ -1,7 +1,7 @@
 # Delaney Parker
 ## Software Engineer | Music Geek
-###<me@dparker.org>
-###Santa Cruz, CA 95062
+
+<me@dparker.org>
 
 ## Summary
 Software Engineer with a passion for technology, hard work, and the creative process.<br>
@@ -18,7 +18,11 @@ Manager and mentor who enjoys learning new things and teaching others.
 
 
 ## Work History
-#### Director of Engineering, Simply Hired, Inc.; Sunnyvale, CA -- November 2015 - Present
+#### Director of Engineering, Looker Data Sciences, Inc.; Santa Cruz, CA -- August 2016 - Present
+Looker brings data-driven decision-making to every level of an enterprise with a data platform that creates a single source of truth so every business team can easily ask and answer their own questions. The company is powering data-driven cultures at more than 500 industry-leading companies such as Yahoo!, Gilt, Warby Parker, and Sony. The company is headquartered in Santa Cruz, California, with offices in San Francisco, New York, and London.
+
+
+#### Director of Engineering, Simply Hired, Inc.; Sunnyvale, CA -- November 2015 - July 2016
 - Work closely with business owners and the product team to identify and execute projects to boost user engagement and acquisition, with a strong focus on the job seeker experience.
 - Provide technical leadership to the team on the architecture, design and implementation.
 - Drive continuous process improvement and innovation through mentorship, code reviews, and by example.
